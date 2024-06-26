@@ -5,12 +5,10 @@ Empower your blood donation application with this Express API designed for effic
 <h2>Key Features:</h2>
   <ul>
     <li>City-based donor matching</li>
-    <li>JWT authentication</li>
     <li>Crypto.js for enhanced security</li>
   </ul>
 <h2>Technologies:</h2>
   <ul>
     <li>Express.js</li>
-    <li>JWT</li>
     <li>Crypto.js</li>
   </ul>
